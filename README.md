@@ -1,2 +1,4 @@
-# npm-bower-docker-compose
-Docker Compose Stub for using bower and npm
+# npm bower docker-compose 
+
+This is a stub Project for personal usage.
+It solves my problem, that npm and bower dependencies are normally overwritten on `docker run`
