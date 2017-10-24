@@ -1,0 +1,11 @@
+{
+  "name": "docker-compose-node",
+  "version": "1.0.0",
+  "author": "Sascha Hahne <hahne.sascha@web.de>",
+  "description": "Stub project for express docker with bower",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

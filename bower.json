@@ -1,0 +1,21 @@
+{
+  "name": "docker-compose-node",
+  "description": "Stub project for express docker with bower",
+  "main": "index.js",
+  "authors": [
+    "Sascha Hahne <hahne.sascha@web.de>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
